@@ -1,6 +1,6 @@
 # NIFTY-50 AI Investment Intelligence Platform
 
-A complete, reproducible investment decision-support platform built only from the provided NIFTY-50 stock market datasets in this workspace.
+A complete, reproducible investment decision-support platform built from the provided NIFTY-50 stock market datasets in this workspace.
 
 ## Deliverables
 
